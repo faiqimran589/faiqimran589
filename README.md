@@ -1,19 +1,19 @@
 # M. Faiq Imran
 
 <p align="center">
-  <img src="./assets/hero.svg?v=1" alt="Faiq Imran - Hero Banner" width="100%" />
+  <img src="./assets/hero.svg?v=2" alt="Faiq Imran - Hero Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=1" alt="About & Capabilities - Faiq Imran" width="100%" />
+  <img src="./assets/about-life.svg?v=2" alt="About & Capabilities - Faiq Imran" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=1" alt="Tech Orbit & Stack - Faiq Imran" width="100%" />
+  <img src="./assets/stack.svg?v=2" alt="Tech Orbit & Stack - Faiq Imran" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=1" alt="ID Badge & Verified Dashboard - Faiq Imran" width="100%" />
+  <img src="./assets/id-dashboard.svg?v=2" alt="ID Badge & Verified Dashboard - Faiq Imran" width="100%" />
 </p>
 
 ## Featured Projects
@@ -25,7 +25,7 @@
 | **[Portfolio](https://faiqimran.vercel.app/)** | Personal portfolio website showcasing projects, skills, and background. | HTML, CSS, JavaScript | [Live Website](https://faiqimran.vercel.app/) |
 
 <p align="center">
-  <img src="./assets/connect.svg?v=1" alt="Connect with Faiq Imran" width="100%" />
+  <img src="./assets/connect.svg?v=2" alt="Connect with Faiq Imran" width="100%" />
 </p>
 
 ### Let's Connect

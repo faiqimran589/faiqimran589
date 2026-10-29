@@ -116,11 +116,9 @@
   <rect x="2" y="2" width="876" height="416" rx="24" fill="url(#i-dot-grid)" />
 
   <!-- LEFT: Hanging Lanyard + ID Badge -->
-  <!-- Swing origin at top pin (195, 0) -->
   <g class="i-lanyard-drop">
     <!-- Blue Fabric Lanyard Strap -->
     <path d="M 183,-10 L 183,48 Q 183,54 189,54 L 201,54 Q 207,54 207,48 L 207,-10 Z" fill="url(#i-strap-grad)" />
-    <!-- Strap Weave Lines -->
     <line x1="187" y1="-10" x2="187" y2="52" stroke="#60a5fa" stroke-width="1" stroke-dasharray="3 3" stroke-opacity="0.6" />
     <line x1="203" y1="-10" x2="203" y2="52" stroke="#60a5fa" stroke-width="1" stroke-dasharray="3 3" stroke-opacity="0.6" />
 
@@ -161,7 +159,6 @@
 
     <!-- Barcode Strip -->
     <g transform="translate(96, 340)">
-      <!-- Alternating barcode bars -->
       <line x1="0" y1="0" x2="0" y2="22" stroke="#ffffff" stroke-width="2" />
       <line x1="4" y1="0" x2="4" y2="22" stroke="#ffffff" stroke-width="1" />
       <line x1="7" y1="0" x2="7" y2="22" stroke="#ffffff" stroke-width="3" />
@@ -214,7 +211,6 @@
 
   <!-- RIGHT: Verified Dated Stats & Real Repo Data -->
   <g transform="translate(365, 42)">
-    <!-- Header -->
     <text x="0" y="0" class="i-mono" font-size="11" fill="#38bdf8" letter-spacing="0.1em">DASHBOARD &amp; VERIFIED RECORDS</text>
     <text x="0" y="26" class="i-base" font-size="22" font-weight="700" fill="#ffffff">Academic, Hackathon &amp; GitHub Metrics</text>
 
@@ -226,17 +222,15 @@
         <text x="20" y="32" class="i-mono" font-size="11" fill="#7dd3fc">ACADEMIC &amp; CERTS</text>
         <text x="20" y="70" class="i-base" font-size="36" font-weight="700" fill="#ffffff">03</text>
         <text x="20" y="92" class="i-mono" font-size="10" fill="#94a3b8">Completed (as of Oct 2026)</text>
-        <!-- Cert mini-indicator -->
         <circle cx="200" cy="28" r="4" fill="#38bdf8" />
       </g>
 
-      <!-- Metric 2: 2 Hackathon/Tech Events -->
+      <!-- Metric 2: 3 Hackathon/Tech Events (Updated) -->
       <g transform="translate(245, 0)">
         <rect x="0" y="0" width="225" height="110" rx="14" fill="#1c0e18" stroke="#ff354f" stroke-width="1" stroke-opacity="0.4" />
         <text x="20" y="32" class="i-mono" font-size="11" fill="#f87171">HACKATHONS &amp; TECH</text>
-        <text x="20" y="70" class="i-base" font-size="36" font-weight="700" fill="#ffffff">02</text>
+        <text x="20" y="70" class="i-base" font-size="36" font-weight="700" fill="#ffffff">03</text>
         <text x="20" y="92" class="i-mono" font-size="10" fill="#94a3b8">Events (Sep - Oct 2026)</text>
-        <!-- Hackathon mini-indicator -->
         <circle cx="200" cy="28" r="4" fill="#ff354f" />
       </g>
     </g>
@@ -271,8 +265,8 @@
         <text x="0" y="44" class="i-mono" font-size="11" fill="#94a3b8">Primary Focus</text>
       </g>
 
-      <!-- Verified Dated Event Footnote -->
-      <text x="24" y="128" class="i-mono" font-size="9" fill="#64748b">• Alibaba Cloud AI Hackathon (Oct 2026) • Fastn Automation (Sep 2026)</text>
+      <!-- Verified Dated Event Footnote (3 Hackathons) -->
+      <text x="24" y="128" class="i-mono" font-size="9" fill="#64748b">• Alibaba Cloud AI (Oct 26) • Fastn (Sep 26) • NASCON (2026)</text>
     </g>
   </g>
 </svg>
