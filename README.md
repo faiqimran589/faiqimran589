@@ -1,37 +1,94 @@
 # Muhammad Faiq Imran
 
 <p align="center">
-  <img src="./assets/hero.svg?v=4" alt="Muhammad Faiq Imran - Hero Banner" width="100%" />
+  <img src="./assets/hero.svg?v=5" alt="Muhammad Faiq Imran - Hero Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=4" alt="About & Capabilities - Muhammad Faiq Imran" width="100%" />
+  <em>"I believe technology is most meaningful when it solves everyday problems for real people."</em>
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=4" alt="Tech Orbit & Stack - Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/about-life.svg?v=5" alt="About & Capabilities - Muhammad Faiq Imran" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=4" alt="ID Badge & Verified Dashboard - Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/stack.svg?v=5" alt="Tech Orbit & Stack - Muhammad Faiq Imran" width="100%" />
 </p>
 
-## Featured Projects
+<p align="center">
+  <img src="./assets/id-dashboard.svg?v=5" alt="ID Badge & Verified Dashboard - Muhammad Faiq Imran" width="100%" />
+</p>
 
-| Project | Description | Tech Stack | Status / Link |
+---
+
+## 🚀 Ventures & Core Products
+
+### [Rubrics AI](https://rubricsai.com) — Co-Founder
+**Pakistan's 1st AI-powered handwritten paper grading platform**, built to turn weeks of manual marking into minutes of detailed student feedback.
+- Evaluates handwritten answer sheets against clear rubrics with structured criteria and marks breakdown.
+- Highlights lost marks transparently while keeping teachers in full control of final scores.
+- **Achievement:** Reached the **National Final Top 300** in the **Alibaba Cloud AI Hackathon Pakistan 2026** out of 16,000+ submissions across Pakistan.
+- **Links:** [Official Website](https://rubricsai.com) • [LinkedIn](https://www.linkedin.com/company/rubrics-ai) • [YouTube Channel](https://youtube.com/@Rubrics-Ai)
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack | Status / Links |
 | :--- | :--- | :--- | :--- |
-| **Rubrics AI** | AI-powered paper grading platform. Uses Gemini-based OCR to read handwritten answer sheets, grades them against a teacher-defined rubric and gives structured feedback. | Python, Gemini AI, OCR | In development (Presented at Alibaba Cloud AI Hackathon) |
-| **[GYxC](https://GYxC.vercel.app/)** | Responsive website for a student-led initiative under the Tanzeem Foundation, deployed on Vercel. | Web Development, Responsive Design, Vercel | [Live Demo](https://GYxC.vercel.app/) |
-| **[Portfolio](https://faiqimran.vercel.app/)** | Personal portfolio website showcasing projects, skills, and background. | HTML, CSS, JavaScript | [Live Website](https://faiqimran.vercel.app/) |
+| **[Furrow Fields](https://furrow-fields.vercel.app/)** | Climate adaptation web app built by Team AstroCultureX for **NASA Space Apps Challenge 2026**. Features interactive 3D globe future weather insights, crop suitability recommendations, and multilingual *Ask Sprout AI*. | Python, NASA POWER API, NASA GIBS, Gemini AI, Firebase, Vercel | [Live Demo](https://furrow-fields.vercel.app/) • [GitHub Repo](https://github.com/faiqimran589/AstroCultureX) • *Galactic Problem Solver* |
+| **[Rubrics AI](https://rubricsai.com)** | Cost-effective AI & OCR evaluation platform checking handwritten exam sheets against structured rubrics. | Python, Gemini AI, OCR Pipelines, Web | [Website](https://rubricsai.com) • [Dedicated Page](https://faiqimran.vercel.app/rubrics-ai) • *Top 300 Finalist* |
+| **[GYxC](https://GYxC.vercel.app/)** | Meaningful youth and cancer awareness platform developed in collaboration with the **Tanzeem Foundation**. | HTML5, CSS3, JavaScript, Responsive UI, Vercel | [Live Site](https://GYxC.vercel.app/) |
+| **[Personal Portfolio](https://faiqimran.vercel.app/)** | Cyber-themed developer portfolio showcasing engineering projects, hackathons, and certifications. | HTML5, Tailwind CSS, JavaScript, Vercel | [Live Website](https://faiqimran.vercel.app/) |
+| **[Sameer Talib Portfolio](https://sameertalib.vercel.app/)** | Custom portfolio website developed for an agriculture researcher, featuring dark mode and downloadable CV. | HTML5, CSS3, JavaScript, Vercel | [Live Site](https://sameertalib.vercel.app/) |
+| **[Haider Bashir Portfolio](https://haiderbashir.vercel.app/)** | Clean client portfolio website developed for a healthcare researcher with light and dark themes. | HTML5, CSS3, JavaScript, Vercel | [Live Site](https://haiderbashir.vercel.app/) |
+
+---
+
+## 🏅 Hackathons & Competitions
+
+- **NASA Space Apps Challenge 2026 (Islamabad)** — *Galactic Problem Solver* (Nov 14–15, 2026)  
+  Built **Furrow Fields** with Team AstroCultureX for the *"Field Shift: Adapting Farms with NASA Data"* challenge.
+- **Alibaba Cloud AI Hackathon Pakistan 2026** — *Top 300 National Finalist* (Oct 2026)  
+  Selected in the National Final Top 300 out of 16,000+ submissions across Pakistan with **Eval Assist / Rubrics AI**.
+
+---
+
+## 🎓 Education & Certifications
+
+- **NUTECH University (National University of Technology, Islamabad)**  
+  *Bachelor of Science in Software Engineering (BS SE)* • 2026 – 2030  
+  Building strong foundations in computational thinking, software architecture, and algorithm design.
+- **APSACS DHA Phase-II, Islamabad**  
+  *Higher Secondary School Certificate (HSSC) in ICS (Computer Science)* • Completed 2026
+- **Cisco Networking Academy & OpenEDG** (Nov 2026) — *C++ Essentials 1 (Statement of Achievement)*  
+  Covering universal programming concepts, C++ syntax, memory handling, and standard infrastructure.
+- **Harvard University (CS50)** — *CS50: Introduction to Computer Science*  
+  Comprehensive foundation in programming, algorithmic problem solving, memory management, and clean code.
+- **NUST-SINES** — *Python Crash Course*
+- **Institute of Space Technology (IST) x University of Leeds** — *AI in Education*
+
+---
+
+## ⚡ Currently Focused On & Open To
+
+- 🧠 **Learning & Mentorship:** Software architecture, clean system design, and engineering best practices.
+- 🤖 **Applied AI & Automation:** Building Gemini AI and OCR pipelines for real-world automated assessment.
+- 💻 **Web & Hackathon Teams:** Rapid 0-to-1 prototyping and shipping responsive modern web apps.
+- 🤝 **Community Impact:** Volunteering technical skills for impactful non-profit causes (Tanzeem Foundation).
+
+---
 
 <p align="center">
-  <img src="./assets/connect.svg?v=4" alt="Connect with Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/connect.svg?v=5" alt="Connect with Muhammad Faiq Imran" width="100%" />
 </p>
 
-### Let's Connect
+### Let's Connect & Build
 
-- **LinkedIn:** [linkedin.com/in/faiq-imran](https://www.linkedin.com/in/faiq-imran/)
-- **GitHub:** [github.com/faiqimran589](https://github.com/faiqimran589)
-- **Portfolio:** [faiqimran.vercel.app](https://faiqimran.vercel.app/)
-- **Email:** [faiqimran589@gmail.com](mailto:faiqimran589@gmail.com)
-- **Instagram:** [instagram.com/faiqimran589](https://www.instagram.com/faiqimran589/)
+- 🌐 **Portfolio:** [faiqimran.vercel.app](https://faiqimran.vercel.app/)
+- 🚀 **Rubrics AI:** [rubricsai.com](https://rubricsai.com)
+- 💼 **LinkedIn:** [linkedin.com/in/faiq-imran](https://www.linkedin.com/in/faiq-imran/)
+- 💻 **GitHub:** [github.com/faiqimran589](https://github.com/faiqimran589)
+- 📧 **Email:** [faiqimran589@gmail.com](mailto:faiqimran589@gmail.com)
+- 📸 **Instagram:** [instagram.com/faiqimran589](https://www.instagram.com/faiqimran589/)
