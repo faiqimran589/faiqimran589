@@ -1,7 +1,7 @@
 # Muhammad Faiq Imran
 
 <p align="center">
-  <img src="./assets/hero.svg?v=5" alt="Muhammad Faiq Imran - Hero Banner" width="100%" />
+  <img src="./assets/hero.svg?v=6" alt="Muhammad Faiq Imran - Hero Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=5" alt="About & Capabilities - Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/about-life.svg?v=6" alt="About & Capabilities - Muhammad Faiq Imran" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=5" alt="Tech Orbit & Stack - Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/stack.svg?v=6" alt="Tech Orbit & Stack - Muhammad Faiq Imran" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=5" alt="ID Badge & Verified Dashboard - Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/id-dashboard.svg?v=6" alt="ID Badge & Verified Dashboard - Muhammad Faiq Imran" width="100%" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/connect.svg?v=5" alt="Connect with Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/connect.svg?v=6" alt="Connect with Muhammad Faiq Imran" width="100%" />
 </p>
 
 ### Let's Connect & Build
