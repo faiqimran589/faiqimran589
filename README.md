@@ -80,37 +80,21 @@
 
 ---
 
-<p align="center">
-  <a href="https://faiqimran.vercel.app/" target="_blank">
-    <img src="./assets/connect.svg?v=7" alt="Connect with Muhammad Faiq Imran" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faiq-imran/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/faiqimran589" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://faiqimran.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://rubricsai.com" target="_blank">
-    <img src="https://img.shields.io/badge/Rubrics_AI-247BFF?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Rubrics AI" />
-  </a>
-  &nbsp;
-  <a href="mailto:faiqimran589@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/faiqimran589/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="48%" align="center" valign="middle">
+      <img src="./assets/cards/connect-char.svg?v=2" width="100%" alt="Muhammad Faiq Imran" />
+    </td>
+    <td width="52%" align="center" valign="middle">
+      <img src="./assets/cards/connect-header.svg?v=2" width="100%" alt="Let's Connect & Build" /><br/>
+      <a href="https://www.linkedin.com/in/faiq-imran/" target="_blank"><img src="./assets/cards/card-linkedin.svg?v=2" width="100%" alt="LinkedIn" /></a><br/>
+      <a href="https://github.com/faiqimran589" target="_blank"><img src="./assets/cards/card-github.svg?v=2" width="100%" alt="GitHub" /></a><br/>
+      <a href="https://faiqimran.vercel.app/" target="_blank"><img src="./assets/cards/card-portfolio.svg?v=2" width="100%" alt="Portfolio" /></a><br/>
+      <a href="mailto:faiqimran589@gmail.com" target="_blank"><img src="./assets/cards/card-email.svg?v=2" width="100%" alt="Email" /></a><br/>
+      <a href="https://www.instagram.com/faiqimran589/" target="_blank"><img src="./assets/cards/card-instagram.svg?v=2" width="100%" alt="Instagram" /></a>
+    </td>
+  </tr>
+</table>
 
 ### 📬 Direct Links & Presence
 
