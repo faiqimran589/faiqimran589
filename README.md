@@ -1,7 +1,7 @@
 # Muhammad Faiq Imran
 
 <p align="center">
-  <img src="./assets/hero.svg?v=6" alt="Muhammad Faiq Imran - Hero Banner" width="100%" />
+  <img src="./assets/hero.svg?v=7" alt="Muhammad Faiq Imran - Hero Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -9,15 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=6" alt="About & Capabilities - Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/about-life.svg?v=7" alt="About & Capabilities - Muhammad Faiq Imran" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=6" alt="Tech Orbit & Stack - Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/stack.svg?v=7" alt="Tech Orbit & Stack - Muhammad Faiq Imran" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=6" alt="ID Badge & Verified Dashboard - Muhammad Faiq Imran" width="100%" />
+  <img src="./assets/id-dashboard.svg?v=7" alt="ID Badge & Verified Dashboard - Muhammad Faiq Imran" width="100%" />
 </p>
 
 ---
@@ -81,14 +81,44 @@
 ---
 
 <p align="center">
-  <img src="./assets/connect.svg?v=6" alt="Connect with Muhammad Faiq Imran" width="100%" />
+  <a href="https://faiqimran.vercel.app/" target="_blank">
+    <img src="./assets/connect.svg?v=7" alt="Connect with Muhammad Faiq Imran" width="100%" />
+  </a>
 </p>
 
-### Let's Connect & Build
+<p align="center">
+  <a href="https://www.linkedin.com/in/faiq-imran/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/faiqimran589" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://faiqimran.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://rubricsai.com" target="_blank">
+    <img src="https://img.shields.io/badge/Rubrics_AI-247BFF?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Rubrics AI" />
+  </a>
+  &nbsp;
+  <a href="mailto:faiqimran589@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/faiqimran589/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-- 🌐 **Portfolio:** [faiqimran.vercel.app](https://faiqimran.vercel.app/)
-- 🚀 **Rubrics AI:** [rubricsai.com](https://rubricsai.com)
-- 💼 **LinkedIn:** [linkedin.com/in/faiq-imran](https://www.linkedin.com/in/faiq-imran/)
-- 💻 **GitHub:** [github.com/faiqimran589](https://github.com/faiqimran589)
-- 📧 **Email:** [faiqimran589@gmail.com](mailto:faiqimran589@gmail.com)
-- 📸 **Instagram:** [instagram.com/faiqimran589](https://www.instagram.com/faiqimran589/)
+### 📬 Direct Links & Presence
+
+| Platform | Handle / Address | Instant One-Tap Link |
+| :--- | :--- | :--- |
+| 💼 **LinkedIn** | [`linkedin.com/in/faiq-imran`](https://www.linkedin.com/in/faiq-imran/) | [Open LinkedIn Profile ↗](https://www.linkedin.com/in/faiq-imran/) |
+| 💻 **GitHub** | [`github.com/faiqimran589`](https://github.com/faiqimran589) | [Follow on GitHub ↗](https://github.com/faiqimran589) |
+| 🌐 **Personal Portfolio** | [`faiqimran.vercel.app`](https://faiqimran.vercel.app/) | [Visit Portfolio ↗](https://faiqimran.vercel.app/) |
+| 🚀 **Rubrics AI** | [`rubricsai.com`](https://rubricsai.com) | [Explore Rubrics AI ↗](https://rubricsai.com) |
+| 📧 **Direct Email** | [`faiqimran589@gmail.com`](mailto:faiqimran589@gmail.com) | [Send Direct Email ↗](mailto:faiqimran589@gmail.com) |
+| 📸 **Instagram** | [`instagram.com/faiqimran589`](https://www.instagram.com/faiqimran589/) | [Open Instagram ↗](https://www.instagram.com/faiqimran589/) |
